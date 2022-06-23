@@ -37,3 +37,8 @@ Werde noch heute ein Profi, in der Technologie von Morgen!
 Wir sehen uns im Kurs!
 
 \* Alle Angaben ohne Gewähr
+
+
+#Kai:
+##Einführung in python fertiggestellt
+Den Code zu den Übungen findet man in dem Ordner 2 "Python"
