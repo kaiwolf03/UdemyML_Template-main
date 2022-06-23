@@ -39,6 +39,7 @@ Wir sehen uns im Kurs!
 \* Alle Angaben ohne Gewähr
 
 
-#Kai:
-##Einführung in python fertiggestellt
+# Kai:
+
+## Einführung in python fertiggestellt
 Den Code zu den Übungen findet man in dem Ordner 2 "Python"
